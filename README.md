@@ -9,7 +9,8 @@
 ![Licencia](https://img.shields.io/github/license/Daniel-21MM/legion-mal)
 
 
-# 🦹‍♂️ La Legión del Mal - Desde Local
+
+# 🦹‍♂️ La Legión del Mal - Desde Remoto y Local
 
 > _"El mundo no se conquista con fuerza bruta, se conquista con un buen plan y control de versiones."_
 > — Lex Luthor, fundador
